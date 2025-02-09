@@ -229,5 +229,3 @@ This produces a file (e.g., `simulated_eeg.edf`) which you can use for testing t
 Contributions are welcome!  
 If you have suggestions or improvements, please fork the repository, create a feature branch, and submit a pull request.
 ```
-
-You now have a full README.md file with all the content, excluding the License and Contact sections. Happy coding with Mindsync!
