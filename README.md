@@ -1,6 +1,6 @@
 # Mindsync
 
-**Mindsync** is an innovative Django-based backend that harnesses EEG signal processing to generate personalized binaural beat recommendations for enhanced cognitive states. By integrating advanced signal processing with a multidatabase approach (PostgreSQL for user data and MongoDB for EEG recordings), Mindsync enables real-time analysis of EEG data—simulated or recorded—to guide brainwave entrainment for scenarios such as studying, working, stress reduction, mindfulness, and sleep.
+**Mindsync** is an innovative Flutter and Django-based backend that harnesses EEG signal processing to generate personalized binaural beat recommendations for enhanced cognitive states. By integrating advanced signal processing with a multidatabase approach (PostgreSQL for user data and MongoDB for EEG recordings), Mindsync enables real-time analysis of EEG data—simulated or recorded—to guide brainwave entrainment for scenarios such as studying, working, stress reduction, mindfulness, and sleep.
 
 ---
 
@@ -228,3 +228,5 @@ This produces a file (e.g., `simulated_eeg.edf`) which you can use for testing t
 
 Contributions are welcome!  
 If you have suggestions or improvements, please fork the repository, create a feature branch, and submit a pull request.
+
+```
