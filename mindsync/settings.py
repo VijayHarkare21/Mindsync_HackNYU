@@ -114,7 +114,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'mindsync_db',
         'USER': 'postgres',
-        'PASSWORD': 'febViJ@2025',
+        'PASSWORD': '<password>',
         'HOST': 'localhost',
         'PORT': '5432',
     },
