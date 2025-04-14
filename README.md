@@ -32,7 +32,7 @@ Mindsync provides a robust platform for processing EEG data with the goal of gen
 
 ## Features
 
-- **Intuitive UI/uX:**
+- **Intuitive UI/UX:**
   Uses Flutter for an intuitive and easy-to-use user interface.
 
 - **Multidatabase Integration:**  
