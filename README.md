@@ -32,6 +32,9 @@ Mindsync provides a robust platform for processing EEG data with the goal of gen
 
 ## Features
 
+- **Intuitive UI/uX:**
+  Uses Flutter for an intuitive and easy-to-use user interface.
+
 - **Multidatabase Integration:**  
   Uses PostgreSQL for structured user data and MongoDB (via djongo) for storing EEG session data.
   
@@ -52,6 +55,7 @@ Mindsync provides a robust platform for processing EEG data with the goal of gen
 ## Architecture
 
 - **Backend Framework:** Django with Django REST Framework.
+- **Frontend Framework:** Flutter
 - **Authentication:** User accounts managed via dj‑rest‑auth and django-allauth.
 - **EEG Data Processing:**  
   - **Simulation:** Uses NumPy and pyedflib for EDF file generation.
